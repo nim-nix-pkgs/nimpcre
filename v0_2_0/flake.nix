@@ -11,6 +11,7 @@
   inputs.src-nimpcre-v0_2_0.ref   = "refs/tags/v0.2.0";
   inputs.src-nimpcre-v0_2_0.owner = "genotrance";
   inputs.src-nimpcre-v0_2_0.repo  = "nimpcre";
+  inputs.src-nimpcre-v0_2_0.dir   = "";
   inputs.src-nimpcre-v0_2_0.type  = "github";
   
   inputs."nimterop".owner = "nim-nix-pkgs";
