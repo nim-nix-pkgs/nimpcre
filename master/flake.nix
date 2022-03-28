@@ -11,7 +11,6 @@
   inputs.src-nimpcre-master.ref   = "refs/heads/master";
   inputs.src-nimpcre-master.owner = "genotrance";
   inputs.src-nimpcre-master.repo  = "nimpcre";
-  inputs.src-nimpcre-master.dir   = "";
   inputs.src-nimpcre-master.type  = "github";
   
   inputs."nimterop".owner = "nim-nix-pkgs";
